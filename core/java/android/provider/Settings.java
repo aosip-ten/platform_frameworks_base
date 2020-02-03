@@ -4724,12 +4724,6 @@ public final class Settings {
         public static final String DOZE_TRIGGER_DOUBLETAP = "doze_trigger_doubletap";
 
         /**
-         * Whether to show Brightness Icon On Brightness Slider
-         * @hide
-         */
-        public static final String QS_SHOW_BRIGHTNESS_ICON = "qs_show_brightness_icon";
-
-        /**
          * Display style of the status bar battery information
          *    0: Display the battery as portrait icon (default)
          *    1: Display the battery as dotted circle
